@@ -1,0 +1,1 @@
+Wrzucacie do jakiegos clienta, obojetnie gdzie np: esx_basicneeds/client
